@@ -1,10 +1,10 @@
 ### Hey there 👋
 
-I'm **MJ**, a passionate **Full Stack Developer** and **Systems Engineering graduate** from **Pearson Institute (Eduvos)**.  
+I'm **Musa Immanuel Moyo**, a passionate **Full Stack Developer** and **Systems Engineering graduate** from **Pearson Institute (Eduvos)**.  
 I love building, deploying, and optimizing modern web applications that actually *do something useful* — not just look pretty.
 
 💻 **Tech Stack:**  
-`HTML` · `CSS` · `JavaScript` · `Java (Spring Boot)` · `Node.js` · `SQL` · `Flutter` · `TailwindCSS` · `Astro`
+`HTML` · `CSS` · `JavaScript` · `Java (Spring Boot)` · `Postges` · `Flutter` · `TailwindCSS` · `
 
 ---
 
@@ -18,17 +18,18 @@ I love building, deploying, and optimizing modern web applications that actually
 ---
 
 ### 🧰 What I’m Working On
-- 🏗️ Building full-stack apps using **Spring Boot + Astro + TailwindCSS**  
+- 🏗️ Building full-stack apps using **Spring Boot **  
 - ☁️ Running my own **web hosting and deployment stack** (VPS-powered)  
-- 💬 Exploring AI-based automation and chat systems for businesses  
+- 💬 Exploring AI-based automation and chat systems for businesses
+- 💬 Building AI Whatsapp Chatbots
 
 ---
 
 ### 🌍 Find Me Around The Web
-- 💼 [LinkedIn](#)  
-- 🌐 [Portfolio](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/musa-moyo/)  
+- 🌐 [Portfolio](https://devbymusa.vercel.app/)  
 - 🐦 [Twitter / X](#)  
-- 📫 Reach me at **[your@email.com](mailto:your@email.com)**  
+- 📫 Reach me at **https://www.linkedin.com/in/musa-moyo/**  
 
 ---
 
