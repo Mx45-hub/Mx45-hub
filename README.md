@@ -6,7 +6,7 @@ I love building, deploying, and optimizing modern web applications that actually
 ### 🌐 View My Website
 
 🚀 Check out my personal site and projects live at:  
-👉 **[www.ivenox.co.za](https://www.ivenox.co.za)**  
+👉 **[[www.ivenox.co.za](https://devbymusa.vercel.app/)]((https://devbymusa.vercel.app/))**  
 
 💻 **Tech Stack:**  
 `HTML` · `CSS` · `JavaScript` · `Java (Spring Boot)` · `Postges` · `Flutter` · `TailwindCSS` · `
