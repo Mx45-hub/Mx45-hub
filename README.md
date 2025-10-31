@@ -3,10 +3,12 @@
 I'm **Musa Immanuel Moyo**, a passionate **Full Stack Developer** and **Systems Engineering graduate** from **Pearson Institute (Eduvos)**.  
 I love building, deploying, and optimizing modern web applications that actually *do something useful* — not just look pretty.
 
+
 ### 🌐 View My Website
 
-🚀 Check out my personal site and projects live at:  
-👉 **[[www.ivenox.co.za](https://devbymusa.vercel.app/)]((https://devbymusa.vercel.app/))**  
+🚀 Explore my personal developer portfolio:  
+👉 **[devbymusa.vercel.app](https://devbymusa.vercel.app/)**  
+
 
 💻 **Tech Stack:**  
 `HTML` · `CSS` · `JavaScript` · `Java (Spring Boot)` · `Postges` · `Flutter` · `TailwindCSS` · `
